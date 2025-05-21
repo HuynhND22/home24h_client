@@ -36,7 +36,7 @@ const Hero = () => (
       >
         <div className="absolute w-full h-[300px]  rounded-tl-[140px] z-[0] sm:-top-[20px] -top-[10px]" />
         <img
-          src="/spa_logo.png"
+          src="/Spa_Logo.png"
           alt="cover"
           objectFit="contain"
           className="w-full sm:h-[500px] lg:h-[900px] h-[350px] object-cover rounded-tl-[140px] z-10 relative"
